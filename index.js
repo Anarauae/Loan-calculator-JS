@@ -38,7 +38,7 @@ function calculateResults(){
         document.querySelector('#loading').style.display = 'none';
     } else {
         // Show an error message
-        showError('Please check your inputs');
+        showError('Пожалуйста, проверьте ваши введенные данные');
     }
 }
 
